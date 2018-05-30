@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="welcome">Welcome to Buttercup Cakes !</string>
+    <string name="tagline">We bake not only CAKES but also MEMORIES !</string>
+    <string name="address">Horizon Complex, Race course road, Bangalore" </string>
+    <string name="phone">080-277341</string>
+    <string name="email">buttercupcakeshop@gmail.com</string>
+    <string name="info">To place an order or for more information, Contact us :</string>
+    <string name="dash">- - - - - - - - - - - - - - - - - - - - - </string>
+</resources>
